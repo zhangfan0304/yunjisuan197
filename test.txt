@@ -1,1 +1,2 @@
 I'm a student of class 197
+I'm studying git
